@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589323082260.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E3EE4514",
+    "lastKnownWriteTime" : 1348257619,
+    "last_content_update" : 1348257619,
+    "path" : "~/Documents/learning/Data Scientist/r-programming/week2/specdata/001.csv",
+    "project_path" : "specdata/001.csv",
+    "properties" : {
+        "cursorPosition" : "0,18",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
